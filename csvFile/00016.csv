@@ -1,0 +1,88 @@
+0, 0, Header, 0, 1, 120
+1, 0, Start_track
+1, 0, Title_t, "untitled"
+1, 0, Copyright_t, "Copyright c 2000 by YiHsin"
+1, 0, Text_t, "YiHsin\012"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, Tempo, 500000
+1, 0, Program_c, 0, 0
+1, 0, Control_c, 0, 7, 127
+1, 0, Note_on_c, 0, 69, 100
+1, 60, Note_on_c, 0, 69, 0
+1, 60, Note_on_c, 0, 69, 100
+1, 120, Note_on_c, 0, 69, 0
+1, 120, Note_on_c, 0, 66, 100
+1, 180, Note_on_c, 0, 66, 0
+1, 180, Note_on_c, 0, 62, 100
+1, 240, Note_on_c, 0, 62, 0
+1, 240, Note_on_c, 0, 69, 100
+1, 300, Note_on_c, 0, 69, 0
+1, 300, Note_on_c, 0, 69, 100
+1, 360, Note_on_c, 0, 69, 0
+1, 360, Note_on_c, 0, 66, 100
+1, 420, Note_on_c, 0, 66, 0
+1, 420, Note_on_c, 0, 62, 100
+1, 480, Note_on_c, 0, 62, 0
+1, 480, Note_on_c, 0, 64, 100
+1, 540, Note_on_c, 0, 64, 0
+1, 540, Note_on_c, 0, 66, 100
+1, 600, Note_on_c, 0, 66, 0
+1, 600, Note_on_c, 0, 67, 100
+1, 660, Note_on_c, 0, 67, 0
+1, 660, Note_on_c, 0, 67, 100
+1, 720, Note_on_c, 0, 67, 0
+1, 720, Note_on_c, 0, 66, 100
+1, 780, Note_on_c, 0, 66, 0
+1, 780, Note_on_c, 0, 67, 100
+1, 840, Note_on_c, 0, 67, 0
+1, 840, Note_on_c, 0, 69, 100
+1, 900, Note_on_c, 0, 69, 0
+1, 900, Note_on_c, 0, 69, 100
+1, 960, Note_on_c, 0, 69, 0
+1, 960, Note_on_c, 0, 69, 100
+1, 1020, Note_on_c, 0, 69, 0
+1, 1020, Note_on_c, 0, 66, 100
+1, 1080, Note_on_c, 0, 66, 0
+1, 1080, Note_on_c, 0, 69, 100
+1, 1140, Note_on_c, 0, 69, 0
+1, 1140, Note_on_c, 0, 66, 100
+1, 1200, Note_on_c, 0, 66, 0
+1, 1200, Note_on_c, 0, 64, 100
+1, 1260, Note_on_c, 0, 64, 0
+1, 1260, Note_on_c, 0, 66, 100
+1, 1320, Note_on_c, 0, 66, 0
+1, 1320, Note_on_c, 0, 62, 100
+1, 1410, Note_on_c, 0, 62, 0
+1, 1440, Note_on_c, 0, 67, 100
+1, 1500, Note_on_c, 0, 67, 0
+1, 1500, Note_on_c, 0, 64, 100
+1, 1560, Note_on_c, 0, 64, 0
+1, 1560, Note_on_c, 0, 64, 100
+1, 1620, Note_on_c, 0, 64, 0
+1, 1620, Note_on_c, 0, 64, 100
+1, 1680, Note_on_c, 0, 64, 0
+1, 1680, Note_on_c, 0, 66, 100
+1, 1740, Note_on_c, 0, 66, 0
+1, 1740, Note_on_c, 0, 62, 100
+1, 1800, Note_on_c, 0, 62, 0
+1, 1800, Note_on_c, 0, 62, 100
+1, 1860, Note_on_c, 0, 62, 0
+1, 1860, Note_on_c, 0, 62, 100
+1, 1920, Note_on_c, 0, 62, 0
+1, 1920, Note_on_c, 0, 64, 100
+1, 1980, Note_on_c, 0, 64, 0
+1, 1980, Note_on_c, 0, 66, 100
+1, 2040, Note_on_c, 0, 66, 0
+1, 2040, Note_on_c, 0, 67, 100
+1, 2100, Note_on_c, 0, 67, 0
+1, 2100, Note_on_c, 0, 64, 100
+1, 2160, Note_on_c, 0, 64, 0
+1, 2160, Note_on_c, 0, 62, 100
+1, 2220, Note_on_c, 0, 62, 0
+1, 2220, Note_on_c, 0, 61, 100
+1, 2280, Note_on_c, 0, 61, 0
+1, 2280, Note_on_c, 0, 62, 100
+1, 2400, Note_on_c, 0, 62, 0
+1, 2400, End_track
+0, 0, End_of_file

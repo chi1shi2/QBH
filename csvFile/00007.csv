@@ -1,0 +1,85 @@
+0, 0, Header, 1, 2, 480
+1, 0, Start_track
+1, 0, Sequencer_specific, 13, 5, 15, 28, 50, 48, 48, 50, 46, 48, 56, 46, 48, 51
+1, 0, Sequencer_specific, 8, 5, 15, 18, 0, 0, 127, 127, 0
+1, 0, Title_t, "untitled"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, Tempo, 352941
+1, 0, End_track
+2, 0, Start_track
+2, 0, Sequencer_specific, 5, 5, 15, 9, 64, 72
+2, 0, Sequencer_specific, 15, 5, 15, 6, 71, 101, 110, 101, 114, 97, 108, 32, 77, 73, 68, 73
+2, 0, MIDI_port, 0
+2, 0, Title_t, "MAJOR_TRACK"
+2, 0, Program_c, 0, 0
+2, 0, Note_on_c, 0, 64, 110
+2, 480, Note_on_c, 0, 64, 0
+2, 480, Note_on_c, 0, 64, 110
+2, 720, Note_on_c, 0, 64, 0
+2, 720, Note_on_c, 0, 64, 110
+2, 960, Note_on_c, 0, 64, 0
+2, 960, Note_on_c, 0, 60, 110
+2, 1440, Note_on_c, 0, 60, 0
+2, 1440, Note_on_c, 0, 60, 110
+2, 1920, Note_on_c, 0, 60, 0
+2, 1920, Note_on_c, 0, 64, 110
+2, 2400, Note_on_c, 0, 64, 0
+2, 2400, Note_on_c, 0, 64, 110
+2, 2640, Note_on_c, 0, 64, 0
+2, 2640, Note_on_c, 0, 64, 110
+2, 2880, Note_on_c, 0, 64, 0
+2, 2880, Note_on_c, 0, 67, 110
+2, 3840, Note_on_c, 0, 67, 0
+2, 3840, Note_on_c, 0, 62, 110
+2, 4320, Note_on_c, 0, 62, 0
+2, 4320, Note_on_c, 0, 62, 110
+2, 4560, Note_on_c, 0, 62, 0
+2, 4560, Note_on_c, 0, 62, 110
+2, 4800, Note_on_c, 0, 62, 0
+2, 4800, Note_on_c, 0, 59, 110
+2, 5280, Note_on_c, 0, 59, 0
+2, 5280, Note_on_c, 0, 59, 110
+2, 5760, Note_on_c, 0, 59, 0
+2, 5760, Note_on_c, 0, 62, 110
+2, 6240, Note_on_c, 0, 62, 0
+2, 6240, Note_on_c, 0, 62, 110
+2, 6480, Note_on_c, 0, 62, 0
+2, 6480, Note_on_c, 0, 62, 110
+2, 6720, Note_on_c, 0, 62, 0
+2, 6720, Note_on_c, 0, 65, 110
+2, 7680, Note_on_c, 0, 65, 0
+2, 7680, Note_on_c, 0, 64, 110
+2, 8160, Note_on_c, 0, 64, 0
+2, 8160, Note_on_c, 0, 64, 110
+2, 8400, Note_on_c, 0, 64, 0
+2, 8400, Note_on_c, 0, 64, 110
+2, 8640, Note_on_c, 0, 64, 0
+2, 8640, Note_on_c, 0, 60, 110
+2, 9120, Note_on_c, 0, 60, 0
+2, 9120, Note_on_c, 0, 60, 110
+2, 9600, Note_on_c, 0, 60, 0
+2, 9600, Note_on_c, 0, 64, 110
+2, 10080, Note_on_c, 0, 64, 0
+2, 10080, Note_on_c, 0, 64, 110
+2, 10320, Note_on_c, 0, 64, 0
+2, 10320, Note_on_c, 0, 64, 110
+2, 10560, Note_on_c, 0, 64, 0
+2, 10560, Note_on_c, 0, 67, 110
+2, 11520, Note_on_c, 0, 67, 0
+2, 11520, Note_on_c, 0, 62, 110
+2, 12000, Note_on_c, 0, 62, 0
+2, 12000, Note_on_c, 0, 64, 110
+2, 12240, Note_on_c, 0, 64, 0
+2, 12240, Note_on_c, 0, 65, 110
+2, 12480, Note_on_c, 0, 65, 0
+2, 12480, Note_on_c, 0, 64, 110
+2, 12960, Note_on_c, 0, 64, 0
+2, 12960, Note_on_c, 0, 62, 110
+2, 13440, Note_on_c, 0, 62, 0
+2, 13440, Note_on_c, 0, 60, 110
+2, 14400, Note_on_c, 0, 60, 0
+2, 14400, Note_on_c, 0, 60, 110
+2, 15360, Note_on_c, 0, 60, 0
+2, 15360, End_track
+0, 0, End_of_file
